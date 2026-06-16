@@ -48,7 +48,10 @@ Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen oder a
                       {{MAIL_BENUTZER}}@hkc-harsewinkel.de
                     </a><br>
                 📞 {{TELEFON}}<br>
-                📸 @hkc_hsw
+                📸 <a href="https://www.instagram.com/hkc_hsw/"
+                      style="color: #333333; text-decoration: none;">
+                      @hkc_hsw
+                    </a>
             </p>
 
         </td>
