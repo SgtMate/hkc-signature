@@ -1,0 +1,56 @@
+<!-- =====================================================
+ HKC E-Mail-Signatur
+ Nur die Werte in diesem Block anpassen:
+
+ NAME=Jonas Lohmeyer
+ POSITION=Kassierer
+ MAIL_BENUTZER=jonas.lohmeyer
+ TELEFON=+49 XXX XXXXXXX
+ LOGO_URL=https://example.com/hkc-logo.png
+
+ Danach ersetzen:
+ {{NAME}}
+ {{POSITION}}
+ {{MAIL_BENUTZER}}
+ {{TELEFON}}
+ {{LOGO_URL}}
+===================================================== -->
+
+<table cellpadding="0" cellspacing="0" border="0"
+       style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333333;">
+    <tr>
+        <td style="vertical-align: top; padding-right: 20px;">
+
+            <p style="margin: 0 0 12px 0;">
+                Mit freundlichen Grüßen
+            </p>
+
+            <p style="margin: 0;">
+                <strong style="font-size: 16px;">{{NAME}}</strong><br>
+                <span style="color: #666666;">{{POSITION}}</span>
+            </p>
+
+            <p style="margin: 12px 0;">
+                <strong>Harsewinkler-Karnevals-Club (HKC) von 2015 e.V.</strong>
+            </p>
+
+            <p style="margin: 0; line-height: 1.8;">
+                📍 Von-Korff-Str. 2 · 33428 Harsewinkel-Marienfeld<br>
+                📧 <a href="mailto:{{MAIL_BENUTZER}}@hkc-harsewinkel.de"
+                      style="color: #333333; text-decoration: none;">
+                      {{MAIL_BENUTZER}}@hkc-harsewinkel.de
+                    </a><br>
+                📞 {{TELEFON}}<br>
+                📸 @hkc_hsw
+            </p>
+
+        </td>
+
+        <td style="vertical-align: top;">
+            <img src="{{LOGO_URL}}"
+                 alt="HKC Logo"
+                 width="140"
+                 style="display: block; border: 0;">
+        </td>
+    </tr>
+</table>
