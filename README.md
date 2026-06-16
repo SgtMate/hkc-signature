@@ -13,7 +13,7 @@ Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen oder a
  POSITION=Kassierer
  MAIL_BENUTZER=jonas.lohmeyer
  TELEFON=+49 XXX XXXXXXX
- LOGO_URL=https://example.com/hkc-logo.png
+ LOGO_URL=https://sgtmate.github.io/hkc-signature/HKC_logo_Mail.jpg
 
  Danach ersetzen:
  {{NAME}}
@@ -54,7 +54,7 @@ Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen oder a
         </td>
 
         <td style="vertical-align: top;">
-            <img src="{{LOGO_URL}}"
+            <img src="https://sgtmate.github.io/hkc-signature/HKC_logo_Mail.jpg"
                  alt="HKC Logo"
                  width="140"
                  style="display: block; border: 0;">
