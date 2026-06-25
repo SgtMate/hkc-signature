@@ -1,8 +1,10 @@
 # hkc-signature
 This Repo contains the email signature related files of the Harsewinkler Karnevals Club (HKC)
 
+Einen ersten Einblick wie das ganze dann aussehen kann findet man [hier](https://sgtmate.github.io/hkc-signature/signature.html).
+
 ## Signatur
-Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen oder alternativ die [Quelle](https://example.com) verlinken.
+Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen. 
 
 ```html
 <!-- =====================================================
