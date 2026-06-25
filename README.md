@@ -9,9 +9,9 @@ Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen oder a
  HKC E-Mail-Signatur
  Nur die Werte in diesem Block anpassen:
 
- NAME=Jonas Lohmeyer
+ NAME=Leon Kampwerth
  POSITION=Kassierer
- MAIL_BENUTZER=jonas.lohmeyer
+ MAIL_BENUTZER=leon
  TELEFON=+49 XXX XXXXXXX
  LOGO_URL=https://sgtmate.github.io/hkc-signature/HKC_logo_Mail.jpg
 
@@ -42,7 +42,7 @@ Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen oder a
             </p>
 
             <p style="margin: 0; line-height: 1.8;">
-                📍 Von-Korff-Str. 2 · 33428 Harsewinkel-Marienfeld<br>
+                📍 Anton-Linzen-Str. 6 · 33428 Harsewinkel-Marienfeld<br>
                 📧 <a href="mailto:{{MAIL_BENUTZER}}@hkc-harsewinkel.de"
                       style="color: #333333; text-decoration: none;">
                       {{MAIL_BENUTZER}}@hkc-harsewinkel.de
