@@ -57,6 +57,7 @@ Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen oder a
         </td>
 
         <td style="vertical-align: top;">
+            <br><br>
             <img src="https://sgtmate.github.io/hkc-signature/HKC_logo_Mail.jpg"
                  alt="HKC Logo"
                  width="140"
