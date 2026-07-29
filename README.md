@@ -1,30 +1,25 @@
-# hkc-signature
-This Repo contains the email signature related files of the Harsewinkler Karnevals Club (HKC)
+# HKC E-Mail-Signatur
 
-Einen ersten Einblick wie das ganze dann aussehen kann findet man [hier](https://sgtmate.github.io/hkc-signature/signature.html).
+Hier findest du die E-Mail-Signatur des Harsewinkler Karnevals Clubs (HKC).
 
-## Signatur
-Für die Nutzung den folgenden Codeblock bitte im Mailprogramm hinerlegen. 
+Eine Vorschau der Signatur gibt es hier: [signature.html](https://sgtmate.github.io/hkc-signature/signature.html).
+
+## So nutzt du die Signatur
+
+1. Öffne den folgenden HTML-Code.
+2. Ersetze die Platzhalter mit deinen Daten.
+3. Kopiere den fertigen Code in deine E-Mail-Signatur im Mailprogramm.
+
+### Was du anpassen musst
+
+- `{{NAME}}` durch deinen Namen ersetzen
+- `{{POSITION}}` durch deine Funktion ersetzen
+- `{{MAIL_BENUTZER}}` durch deinen HKC-Mailnamen ersetzen
+- `{{TELEFON}}` durch deine Telefonnummer ersetzen
+
+Beispiel: Wenn dein Mailname `leon` ist, wird daraus `leon@hkc-harsewinkel.de`.
 
 ```html
-<!-- =====================================================
- HKC E-Mail-Signatur
- Nur die Werte in diesem Block anpassen:
-
- NAME=Leon Kampwerth
- POSITION=Kassierer
- MAIL_BENUTZER=leon
- TELEFON=+49 XXX XXXXXXX
- LOGO_URL=https://sgtmate.github.io/hkc-signature/HKC_logo_Mail.jpg
-
- Danach ersetzen:
- {{NAME}}
- {{POSITION}}
- {{MAIL_BENUTZER}}
- {{TELEFON}}
- {{LOGO_URL}}
-===================================================== -->
-
 <table cellpadding="0" cellspacing="0" border="0"
        style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333333;">
     <tr>
