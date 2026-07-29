@@ -63,3 +63,17 @@ Beispiel: Wenn dein Mailname `leon` ist, wird daraus `leon@hkc-harsewinkel.de`.
     </tr>
 </table>
 ```
+
+## Für den Vorstand
+
+Für die Vorstandsmitglieder gibt es bereits fertig ausgefüllte Vorlagen im Ordner [vorstand](vorstand).
+
+> Wichtig für Outlook: Bitte nicht den HTML-Code direkt einfügen, sondern die Signatur im Browser öffnen und die formatierte Ansicht daraus kopieren.
+
+Die fertigen Signaturen sind hier direkt im Browser erreichbar:
+
+- [1. Vorsitzender](https://sgtmate.github.io/hkc-signature/vorstand/1-vorsitzender.html)
+- [2. Vorsitzender](https://sgtmate.github.io/hkc-signature/vorstand/2-vorsitzender.html)
+- [Kassierer](https://sgtmate.github.io/hkc-signature/vorstand/kassierer.html)
+- [Schriftführerin](https://sgtmate.github.io/hkc-signature/vorstand/schriftfuehrerin.html)
+- [Geschäftsführer](https://sgtmate.github.io/hkc-signature/vorstand/geschaeftsfuehrer.html)
