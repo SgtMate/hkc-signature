@@ -74,7 +74,7 @@ Die fertigen Signaturen sind hier direkt im Browser erreichbar:
 
 - [1. Vorsitzender](https://sgtmate.github.io/hkc-signature/vorstand/1-vorsitzender.html)
 - [2. Vorsitzender](https://sgtmate.github.io/hkc-signature/vorstand/2-vorsitzender.html)
-- [2. Beisitzerin – Mareen Tellbrügge](https://sgtmate.github.io/hkc-signature/vorstand/2-beisitzerin.html)
+- [2. Beisitzerin](https://sgtmate.github.io/hkc-signature/vorstand/2-beisitzerin.html)
 - [Kassierer](https://sgtmate.github.io/hkc-signature/vorstand/kassierer.html)
 - [Schriftführerin](https://sgtmate.github.io/hkc-signature/vorstand/schriftfuehrerin.html)
 - [Geschäftsführer](https://sgtmate.github.io/hkc-signature/vorstand/geschaeftsfuehrer.html)
